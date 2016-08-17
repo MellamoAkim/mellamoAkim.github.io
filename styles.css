@@ -8,3 +8,9 @@ body {
 p {
     font-family: "SimSun";
 }
+h1 {
+    font-family: "Comic Sans MS";
+    font-variant: small-caps;
+    font-weight: bold;
+    font-style: oblique
+}
